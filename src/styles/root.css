@@ -1,0 +1,17 @@
+.home-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5em;
+    border-bottom: 0.2em solid black;
+}
+
+.root-page {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.map-section {
+    height: 751px;
+}
